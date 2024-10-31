@@ -82,7 +82,7 @@ O **Application Load Balancer (ALB)** é configurado para distribuir o tráfego 
 
 1. **Clone o Repositório**:
    ```sh
-   git clone <url-do-repositorio>
+   git clone https://github.com/wladimirgrf/03-devops-iac-challenge.git
    cd iac
    ```
 
